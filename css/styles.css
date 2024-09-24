@@ -1,5 +1,5 @@
 .items {
-    /* position: relative; */
+    position: relative;
 }
 
 .item {
@@ -19,6 +19,7 @@
     background-color: #3f4cac;
     left: 150px;
     top: 150px;
+    z-index: 1;
 }
 
 .item:last-child {
